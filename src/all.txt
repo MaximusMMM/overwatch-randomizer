@@ -1,0 +1,32 @@
+DVA
+Orisa
+Reinhardt
+Roadhog
+Sigma
+Winstom
+Wrecking Ball
+Zarya
+Ashe
+Bastion
+Cassidy
+Doomfist
+Echo
+Genji
+Hanzo
+Junkrat
+Mei
+Pharah
+Reaper
+Soldier: 76
+Sombra
+Symmetra
+Torbjörn
+Tracer
+Widowmaker
+Ana
+Baptiste
+Brigitte
+Lúcio
+Mercy
+Moira
+Zenyatta
